@@ -9,7 +9,8 @@ from sigmoid_function import *
 from correct_percent_function import *
 
 
-# IMPORTANT! To start this program you need to download datasets in CSV: mnist_train.csv and mnist_test.csv and paste them to main folder
+# IMPORTANT!
+# You need to unpack mnist_train.zip in main folder to start this program
 
 
 # Testing on 28x28 px files in .bmp format
