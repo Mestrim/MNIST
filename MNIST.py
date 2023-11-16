@@ -294,6 +294,7 @@ for directory, file_list in file_dict.items():
         # add target
         correct_target = int(directory)
 
+        # In training data set black and white pixels are inverted, so it's in this function below
         final = []
         for y in range(28):
             for x in range(28):
