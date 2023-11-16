@@ -1,3 +1,3 @@
-In order to work this program you need to: unpack(unzip) mnist_test.zip in main folder.
+Unpack(unzip) mnist_test.zip in main folder to work this program correctly.
 
 
